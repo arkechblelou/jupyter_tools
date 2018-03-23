@@ -1,0 +1,23 @@
+Installation step-by-step:
+
+Step 1: Install RISE
+Command line: conda install -c damianavila82 rise
+Note:
+If you’re using a virtual environment, don’t forget to activate it first and then install RISE
+
+Step 2: Shutdown Kernels
+Open new notebook. You should be able to see 2 new things
+1. Click on View > Cell Toolbar > Slideshow
+You will see on each cell on the upper right corner a drop-down tab with these options: (Slide, sub-slide, Fragment, Skip, Notes)
+2. A new icon appeared next to the keyboard (command palette). The new icon is how you will execute/launch the slideshow. It looks like a histogram chart.
+
+Step 3 (Optional):
+If you can’t find the new icon.
+Restart your computer and launch Jupyter again.
+
+
+
+
+
+
+
